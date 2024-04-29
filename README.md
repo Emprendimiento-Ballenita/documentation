@@ -1514,18 +1514,14 @@ Conclusiones TP:
 
 - Anexo 1: Enlace del Lean Ux Canvas: <https://www.figma.com/file/cEkXa2WVXX7lYrXnML56ym/Lean-UX-Canvas?type=whiteboard&node-id=0%3A1&t=vBBLdI3dsFatb4bv-1>
 
-- Anexo 2: Enlace de los Impact Mapping
-  - Segmento 1: <https://miro.com/welcomeonboard/VkxTWTlGOGZ0MHFHVFNWbWhzYWJwWnhMdHY4ZlNVV3FXS1ZSZnZmam54aU81dTFvOTlzcDBVVzVWOVpBRFlFYXwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=977101722686>
-  - Segmento 2: <https://miro.com/welcomeonboard/MFFrQ3NnWEpBZlU4aG1oY01iSGZIQ1hQblNHaVBvSEJLMVhmZ3RTTWJqNVJXRnVzM2lSbW5EYmpud3MwVVhDMnwzNDU4NzY0NTI0NTkxOTgzNjc0fDI=?share_link_id=643634161227>
+- Anexo 2: Landing Page Wireframe <https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0>
 
-- Anexo 3: Landing Page Wireframe <https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=6-14&mode=design&t=FEZVYXKpIbxEu972-0>
+- Anexo 3: Landing Page Mockup <https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0>
 
-- Anexo 4: Landing Page Mockup <https://www.figma.com/file/pZbQY6wUszkbiX5JPzonuB/Open-Source?type=design&node-id=7-1062&mode=design&t=FEZVYXKpIbxEu972-0>
+- Anexo 4: Landing Page desplegada <https://emprendimiento-ballenita.github.io/LandingPage/>
 
-- Anexo 5: Landing Page desplegada <https://emprendimiento-ballenita.github.io/LandingPage/>
+- Anexo 5: Repositorio de Landing Page con el archivo md del reporte <https://github.com/Emprendimiento-Ballenita/LandingPage>
 
-- Anexo 6: Repositorio de Landing Page con el archivo md del reporte <https://github.com/Emprendimiento-Ballenita/LandingPage>
+- Anexo 6: Enlace a los Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
 
-- Anexo 7: Enlace a los Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
-
-- Anexo 8: Enlace Class Diagram <https://lucid.app/lucidchart/48f42b15-c7af-49cc-b929-2107cd6ceb02/edit?invitationId=inv_c65ac2b0-5736-408c-9177-9cd9f3ad41b5&page=0_0#>
+- Anexo 7: Enlace Class Diagram <https://lucid.app/lucidchart/48f42b15-c7af-49cc-b929-2107cd6ceb02/edit?invitationId=inv_c65ac2b0-5736-408c-9177-9cd9f3ad41b5&page=0_0#>

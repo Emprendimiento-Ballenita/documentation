@@ -60,7 +60,7 @@ Ciclo 2024-01 | Sección WS53
         elaboración fraccionaria de la aplicación web</td>
   </tr>
 </table>
-##Project Report Collaboration Insights
+## Project Report Collaboration Insights
 TB1: Para esta entrega se elaboro un archivo drive borrador compartido y un repositorio en github para el avance del informe y landing page
 
 ![Project Collab](https://cdn.discordapp.com/attachments/1226580112670064641/1234376358277419140/image.png?ex=66308211&is=662f3091&hm=135030dee8d1fbe5ece6a8d248db259847e3dd41d98a1b815297a4945edfaa32&)

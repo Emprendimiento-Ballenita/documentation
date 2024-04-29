@@ -1020,7 +1020,7 @@ Segmento 2 (Guía turístico):
 
 Segmento 1: Turistas
 
-![Miro-turista](https://media.discordapp.net/attachments/1226580112670064641/1227828421464297583/20.png?ex=66330dd3&is=662098d3&hm=59ec6e0fbeb58f63925b656c428a9f002d3d88affef03a698239b6ec1095be1e&=&format=webp&quality=lossless)
+![Miro-turista](https://cdn.discordapp.com/attachments/1226580112670064641/1234647325008330832/image.png?ex=66317e6c&is=66302cec&hm=ba4c92eb14305754c1e1aa193dc199b20c4b5a17677b10a206a674ac91dd44fa&)
 
 
 Ver a detalle en el anexo 2 - segmento 1

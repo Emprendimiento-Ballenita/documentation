@@ -1022,14 +1022,9 @@ Segmento 1: Turistas
 
 ![Miro-turista](https://cdn.discordapp.com/attachments/1226580112670064641/1234647325008330832/image.png?ex=66317e6c&is=66302cec&hm=ba4c92eb14305754c1e1aa193dc199b20c4b5a17677b10a206a674ac91dd44fa&)
 
-
-Ver a detalle en el anexo 2 - segmento 1
-
 Segmento 2: Guías
 
-![Miro-guia](https://media.discordapp.net/attachments/1226580112670064641/1227828438363017226/21.png?ex=66330dd7&is=662098d7&hm=43e2f887aba8bcbc24960dba532fc94421269725af8f592b1bec35e34bfaf878&=&format=webp&quality=lossless&width=941&height=473)
-
-Ver a detalle en el anexo 2 - segmento 2
+![Miro-guia](https://cdn.discordapp.com/attachments/1226580112670064641/1234652188375257148/image.png?ex=663182f4&is=66303174&hm=799b815bc205f58fd033aea967aa3dcb41ef2f3c6332892bfda4238b290f1b76&)
 
 ## 3.4. Product Backlog.
 

@@ -1295,7 +1295,7 @@ seguirán al interactuar con nuestra plataforma en línea.
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams.
 
-![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234537371387822080/image.png?ex=66311805&is=662fc685&hm=9bcc15f4c6602c7bccfb7fbee0117fac5b579153e3906caf456adbe5dad26884&)
+![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234705011410337903/MainFinal.png?ex=6631b426&is=663062a6&hm=6f940bdc9acedb506ec7be86cb09248959778e1497ff9ac6758f0034939df3c1&)
 
 ### 4.7.2. Class Dictionary. 
 Aún están en desarrollo, ya que el grupo ha priorizado la documentación en general, así como el desarrollo del landing page.

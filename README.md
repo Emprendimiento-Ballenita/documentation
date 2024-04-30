@@ -860,20 +860,6 @@ Segmento 2 (Guía turístico):
 
 ### 2.3.2. User Task Matrix. 
 
-                                                                 |         Turista          |      Guía Turístico      |
-|----------------------------------------------------------------|------------|-------------|------------|-------------|
-|                               Tareas                           | Frecuencia | Importancia | Frecuencia | Importancia |
-|----------------------------------------------------------------|------------|-------------|------------|-------------|
-| Explorar opciones de experiencias vivenciales en Perú          | Media      | Alta        | Alta       | Media       |
-| Coordinar transporte                                           | Baja       | Alta        | Media      | Alta        |
-| Contactar y planificar itinerarios de experiencias vivenciales | Baja       | Alta        | Media      | Alta        |
-| Interactuar con comunidades locales                            | Alta       | Alta        | Media      | Media       |
-| Participar en actividades culturales y tradicionales           | Alta       | Alta        | Alta       | Alta        |
-| Aprender sobre la historia y la cultura peruana                | Baja       | Alta        | Media      | Alta        |
-| Facilitar la comunicación intercultural                        | Baja       | Alta        | Alta       | Alta        |
-| Compartir experiencias y aprendizajes                          | Alta       | Alta        | Baja       | Media       |
-|----------------------------------------------------------------|------------|-------------|------------|-------------|
-
 - User Persona: Turista
 
 |                                         |            |             |

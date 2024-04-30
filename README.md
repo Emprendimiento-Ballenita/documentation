@@ -1518,19 +1518,34 @@ del landing page:
 
 #### 5.2.2.1. Sprint Planning 2
 
+
+
 #### 5.2.2.2. Sprint Backlog 2
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
+Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos realizado commit alguno al repositorio
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Al ser el sprint 2, solo se estableció en la documentación las épicas e historias de usuario a trabajar (con los escenarios). Aún no se ha implementado el testing de las historias de usuario, las cuales se implementarán en Gerkhin.
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Se ha implementado la primera versión del front de nuestra página web:
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado en el repositorio.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Dado que el desarrollo de la página web aún continúa en desarrollo temprano, no se ha realizado el despliegue del mismo. 
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado con el repositorio.
 
 ## Conclusiones:
 

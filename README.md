@@ -1057,8 +1057,35 @@ realizar las acciones.
 ### 4.1.1. General Style Guidelines.
 En esta sección, se describen las directrices generales de estilo que se aplican al diseño del sitio web de Turisteando, asegurando coherencia visual en toda la plataforma.
 
+- **Branding**: Para la elaboración del logo se ha utilizado uno de los colores de la paleta principal, teniendo una pequeña imagen como referencia a los viajes y la aventura:
 
-- **Tipografía**: Se ha importado la fuente "Poppins" desde Google Fonts con pesos de 300, 400, 600 y 700 para garantizar una amplia variedad de estilos tipográficos. Esta elección se hizo para mejorar la legibilidad y la estética del texto en el sitio web.
+![Branding](https://media.discordapp.net/attachments/1226580112670064641/1234703984040869950/Branding.webp?ex=6631b331&is=663061b1&hm=6b702609f70115d312ae3d21864cb96dffbbc2c3900e2bada30395f109946920&=&format=webp)
+
+- **Colores**: Los colores del sitio web escogidos son #e2725b (Terracota) y #f5f5dc (Beige). Para los botones se usarán el negro o blanco:
+
+![Colors_1](https://media.discordapp.net/attachments/1226580112670064641/1234702060289658880/colores.PNG?ex=6631b166&is=66305fe6&hm=3446caef2a1cf58a709730554af4a1fed0cd9c9e717ffa9db01aa85f1ccf0983&=&format=webp&quality=lossless)
+
+Por otro lado, los colores de la paleta de estados serán usados para los mensajes mostrados en la aplicación:
+
+![Colors_2](https://media.discordapp.net/attachments/1226580112670064641/1234702091407200387/colores2.png?ex=6631b16e&is=66305fee&hm=230b02c9b1d2a9a776230d55ee5992fc2a8a7831f5dcf6a492988af24d7d47f0&=&format=webp&quality=lossless)
+
+- **Spacing**: Se utilizará el espaciado entre los componentes implementados para poder evitar aglomeraciones y concentraciones entre los mismo, mejorando la distribución y uniformidad de la página, así como una mejora para la lectura:
+
+![Spacing](https://media.discordapp.net/attachments/1226580112670064641/1234702171346309201/separacion.png?ex=6631b181&is=66306001&hm=bca5194d1b146b9c46d4b9f81fdde0d76731698ed1fe5e186ab756b1815bf92a&=&format=webp&quality=lossless)
+
+- **Alignment**: Toda la interfaz contará con una alineación uniforme con todos los elementos -textos, botones, imágenes, etc-, para así mantener la simetría y apariencia ordenada de la página.
+
+- **Tipografía**: Se ha importado la fuente "Poppins" desde Google Fonts con pesos de 300, 400, 600 y 700 para garantizar una amplia variedad de estilos tipográficos. Esta elección se hizo para mejorar la legibilidad y la estética del texto en el sitio web:
+
+![poppins_medium](https://media.discordapp.net/attachments/1226580112670064641/1234702029767708743/fuente.png?ex=6631b15f&is=66305fdf&hm=265752999ceb39d726aeb47c59c4c418fd80abae84fe5ec923543781e3c60b18&=&format=webp&quality=lossless)
+
+Para un tono más serio, o para resaltar el texto en una situación particular, se usará la fuente “Poppins” de tipo bold:
+
+![poppins_bold](https://media.discordapp.net/attachments/1226580112670064641/1234702271019745443/fuenteBold.png?ex=6631b199&is=66306019&hm=84942377f883bf9b480aa39fc6721aa07a37ef8136aa1b6588002184880bd900&=&format=webp&quality=lossless)
+
+Por otra parte, para textos de fondo o textos que funcionen como etiqueta, se usará la fuente “poppins” de tipo thin:
+
+![poppins_bold](https://media.discordapp.net/attachments/1226580112670064641/1234705314805448714/fuenteThin.png?ex=6631b46e&is=663062ee&hm=6857e50766e3549f657a939986eab254192aa8880d7f64517a60eaf7b6413f86&=&format=webp&quality=lossless)
 
 - **Contenedor Principal**: El diseño del sitio web se basa en un contenedor principal con un ancho del 90% y un máximo de 1200px para mantener una apariencia consistente en diferentes dispositivos. Se ha definido un margen automático para centrar el contenido y se ha establecido un relleno interno para mejorar la distribución del contenido.
 
@@ -1074,8 +1101,6 @@ En esta sección, se describen las directrices generales de estilo que se aplica
 
 ### 4.1.2. Web Style Guidelines. 
 En esta sección se centra en las pautas de estilo para el Landing Page del proyecto Turisteando.
-
-- **Colores**: Los colores del sitio web escogidos son #e2725b (Terracota) y #f5f5dc (Beige). Para los botones se usarán el negro o blanco.
 
 - **Diseño responsivo**: El sitio web será responsivo para su adaptación tanto para computadoras como dispositivos móviles.
 

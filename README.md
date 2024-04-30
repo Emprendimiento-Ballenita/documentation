@@ -860,6 +860,78 @@ Segmento 2 (Guía turístico):
 
 ### 2.3.2. User Task Matrix. 
 
+<table border="1">
+    <tr>
+        <th></th>
+        <th colspan="2">Turista</th>
+        <th colspan="2">Guía Turístico</th>
+    </tr>
+    <tr>
+        <td>Tareas</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+    </tr>
+    <tr>
+        <td>Explorar opciones de experiencias vivenciales en Perú</td>
+        <td>Media</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Media</td>
+    </tr>
+    <tr>
+        <td>Coordinar transporte</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Contactar y planificar itinerarios de experiencias vivenciales</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Interactuar con comunidades locales</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Media</td>
+    </tr>
+    <tr>
+        <td>Participar en actividades culturales y tradicionales</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Aprender sobre la historia y la cultura peruana</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Facilitar la comunicación intercultural</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Compartir experiencias y aprendizajes</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Baja</td>
+        <td>Media</td>
+    </tr>
+</table>
+
+
 - User Persona: Turista
 
 |                                         |            |             |

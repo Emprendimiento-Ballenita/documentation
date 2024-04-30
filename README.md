@@ -931,40 +931,6 @@ Segmento 2 (Guía turístico):
     </tr>
 </table>
 
-
-- User Persona: Turista
-
-|                                         |            |             |
-|-----------------------------------------|------------|-------------|
-| Tareas                                  | Frecuencia | Importancia |
-| Registrar cuenta                        | Baja       | Alta        |
-| Autenticarse                            | Alta       | Alta        |
-| Buscar guías                            | Alta       | Alta        |
-| Filtrar búsqueda de guías               | Alta       | Media       |
-| Ver información del guía                | Media      | Alta        |
-| Administrar lista de favoritos          | Baja       | Media       |
-| Contratar servicio de guía              | Alta       | Alta        |
-| Reservar servicio de guía               | Alta       | Alta        |
-| Pagar servicio                          | Alta       | Alta        |
-| Generar recibo electrónico              | Media      | Alta        |
-| Revisar valoraciones y reseñas          | Baja       | Media       |
-| Compartir experiencia en redes sociales | Baja       | Baja        |
-
-- User Persona: Guía turístico
-
-|                             |            |             |
-|-----------------------------|------------|-------------|
-| Tareas                      | Frecuencia | Importancia |
-| Registrar cuenta            | Alta       | Alta        |
-| Autenticarse                | Alta       | Alta        |
-| Gestionar certificación     | Media      | Alta        |
-| Configurar datos de usuario | Baja       | Media       |
-| Verificar reservas          | Alta       | Alta        |
-| Confirmar servicio          | Alta       | Alta        |
-| Atender servicio            | Alta       | Alta        |
-| Generar recibo electrónico  | Media      | Alta        |
-| Revisar valoraciones        | Alta       | Media       |
-
 ### 2.3.3. User Journey Mapping. 
 Segmento 1 (Turista):
 

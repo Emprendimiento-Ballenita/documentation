@@ -1616,6 +1616,15 @@ Conclusiones TB1:
 
 Conclusiones TP:
 
+- Turisteando esta teniendo las primeras implementacions en la nube con solo métodos FrontEnd.
+
+- Las funcionalidades de los US aún pueden ser mejorados en estilos y back end para hacerlos más coherentes con lo que se previo en primer lugar en los Mock Ups.
+
+- Las herramientas utilizadas como el Angular han podido facilitar el trabajo de realizar las interfaces.
+
+- En retrospectiva, los integrantes van a realizar una mejora continua con respecto a la variedad de los elementos interactivos con el usuario para que la UX/UI no sea perjudicial
+  para los usuarios.
+
 ## Bibliografía:
 
 - Stevens, E. (2023, 29 octubre). Problem statement in UX: Definition and examples. *UX Design Institute*. <https://www.uxdesigninstitute.com/blog/problem-statement-in-ux-examples/#:~:text=A%20problem%20statement%20is%20a,that%20this%20problem%20be%20solved>

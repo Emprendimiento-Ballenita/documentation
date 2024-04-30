@@ -1584,8 +1584,7 @@ Se ha implementado la primera versión del front de nuestra página web:
 Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado en el repositorio.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
-Dado que el desarrollo de la página web aún continúa en desarrollo temprano, no se ha realizado el despliegue del mismo. 
+**Evidencia de Diego Acuña:**
 ![Imagen de deploy](https://cdn.discordapp.com/attachments/1226580112670064641/1234944403844366396/foto_importante.jpg?ex=6632931a&is=6631419a&hm=4e7b0e2893d24daa8ca59f2c1569fbb49fe243983e5997ea5e5997a23fee6dd0&)
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 

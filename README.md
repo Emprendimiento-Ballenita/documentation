@@ -917,6 +917,8 @@ Segmento 2 (Guía turístico):
 
 - · Luis desea visitar un lugar turístico con un guía
 
+![As Is Scenario Mapping - Turista](https://cdn.discordapp.com/attachments/1226580112670064641/1234696306547490836/image.png?ex=6631ac0b&is=66305a8b&hm=db2c5ab6edc974973fab4b9fa6cb6c5162180f77bead8a295f272fe47cb6b31f&)
+
 | Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
 |-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
 | Doing             | [Luis revisa la cantidad de dinero que posee(físico o virtual)] | [Luis va a una agencia de guías turísticos]                     | [Paga con billetera digital o efectiva ]                   |
@@ -927,6 +929,8 @@ Segmento 2 (Guía turístico):
 |                   | [Tiene flojera de ir a las agencias]                           | [Dubitativo porque no sabe si encontrará guías con amplia experiencia laboral] | [Insatisfecho con la visita turística porque no le dio reseñas del lugar antes de ir] |
 
 - · Frank desea hacerle guiado a un cliente
+
+![As Is Scenario Mapping - Guia](https://cdn.discordapp.com/attachments/1226580112670064641/1234696422419595314/image.png?ex=6631ac26&is=66305aa6&hm=dc7ec427f047112cf0f2e57ef2b342ddc3816073eae8b16b8dfd43dbfc6d3208&)
 
 | Phases            | Antes de ser contratado como guía                                | Durante su contratación como guía                                | Al terminar su contratación como guía                     |
 |-------------------|-------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------|

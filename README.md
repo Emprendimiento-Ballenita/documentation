@@ -919,29 +919,9 @@ Segmento 2 (Guía turístico):
 
 ![As Is Scenario Mapping - Turista](https://cdn.discordapp.com/attachments/1226580112670064641/1234696306547490836/image.png?ex=6631ac0b&is=66305a8b&hm=db2c5ab6edc974973fab4b9fa6cb6c5162180f77bead8a295f272fe47cb6b31f&)
 
-| Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
-|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
-| Doing             | [Luis revisa la cantidad de dinero que posee(físico o virtual)] | [Luis va a una agencia de guías turísticos]                     | [Paga con billetera digital o efectiva ]                   |
-|                   | [Luis va a una agencia de guías turísticos]                     | [Va a varias agencias de guías]                                 | [Va al destino turístico con el guía ]                    |
-| Thinking          | [Tendré el dinero suficiente para contratar a un guía]          | [Hay gran cantidad de agencias, pero no salen los destinos turísticos que hacen guiado] | [Podré pagar de manera digital]                          |
-|                   | [Las agencias de guías tendrán guías con suficiente experiencia laboral] | [Tengo que preguntar a cada agencia buscando guías que lleven al destino turístico que quiero] | [El guía que me llevará al destino será una persona con experiencia] |
-| Feeling           | [Siente preocupación al pensar que el guiado puede ser muy costoso] | [Preocupado por si habrá agencias que llevan al destino turístico que quiere] | [Tranquilidad por haber contratado a un guía que lo llevará] |
-|                   | [Tiene flojera de ir a las agencias]                           | [Dubitativo porque no sabe si encontrará guías con amplia experiencia laboral] | [Insatisfecho con la visita turística porque no le dio reseñas del lugar antes de ir] |
-
 - · Frank desea hacerle guiado a un cliente
 
 ![As Is Scenario Mapping - Guia](https://cdn.discordapp.com/attachments/1226580112670064641/1234696422419595314/image.png?ex=6631ac26&is=66305aa6&hm=dc7ec427f047112cf0f2e57ef2b342ddc3816073eae8b16b8dfd43dbfc6d3208&)
-
-| Phases            | Antes de ser contratado como guía                                | Durante su contratación como guía                                | Al terminar su contratación como guía                     |
-|-------------------|-------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------|
-| Doing             | [Lleva sus reseñas de los lugares turísticos donde puede llevar personas] | [Muestra sus reseñas de los destinos turísticos y su título de guía] | [Lleva a su cliente al destino turístico que desea]     |
-|                   | [Se dirige a la agencia donde trabaja]                           | [Ofrece sus servicios como guía]                                | [Corrobora que su cliente disfrute de la guía turística y le da la tarjeta de la agencia para que vuelva otra vez] |
-| Thinking          | [Podré tener clientes el día de hoy]                             | [Alguien se acercará a ver mis reseñas del lugar turístico que puedo llevar] | [Ojalá haber cumplido sus expectativas como guía]       |
-|                   | [Estaré vestido adecuadamente para ser un guía]                   | [Alguien me contratará]                                          | [Espero que me recomiende con sus conocidos]           |
-| Feeling           | [Se siente angustiado porque no sabe si hoy tendrá clientes]     | [Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba] | [Se siente aliviado al saber que si logro tener clientes en el día] |
-|                   | [Siente temor de no resaltar entre sus compañeros guías]         | [Se siente aliviado al ver que un cliente solicita sus servicios] | [Se siente bien al poder dar sus servicios a un buen precio para los 2] |
-|                   |                                                                   | [Se siente feliz porque llegó a un acuerdo con el cliente]       | [Se siente optimista al esperar ser recomendado con los contactos del cliente] |
-
 
 ## 2.4. Ubiquitous Language.
 

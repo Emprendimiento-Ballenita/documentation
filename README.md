@@ -1553,6 +1553,19 @@ del landing page:
 
 #### 5.2.2.2. Sprint Backlog 2
 
+|            |                                          |                  |                                          |                                                                                                                  |                    |                    |        |
+|------------|------------------------------------------|------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|--------|
+| Sprint \#  | Sprint 2                                 |                  |                                          |                                                                                                                  |                    |                    |        |
+| User Story |                                          | Work-Item / Task |                                          |                                                                                                                  |                    |                    |        |
+| ID         | Title                                    | ID               | Title                                    | Description                                                                                                      | Estimation (Hours) | Assigned To        | Status |
+| US03       | Registrar guía      | T001             | Implementar el header, main y footer     | El desarrollador implementa los componentes señalados del landing page                                           | 3 horas            | Alexander Cantoral | Done   |
+|            |                                          | T002             | Realizar una limpieza de código          | Corrección de errores y modificación de textos                                                                   | 0.5 horas          | Max Paitan         | Done   |
+| US27       | Ver misión y visión del proyecto         | T001             | Implementar la opción de misión y visión | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 horas            | Alexander Cantoral | Done   |
+| US28       | Revisar los servicios ofrecidos          | T001             | Implementar la opción de servicios       | Implementar los componentes y lógica para el botón atajo de servicio en el header                                | 1 hora             | Alexander Cantoral | Done   |
+|            |                                          | T002             | Implementar los servicios                | Implementación de los componentes y vista de servicios en el main                                                | 1 hora             | Alexander Cantoral | Done   |
+| US29       | Obtener contacto con los administradores | T001             | Implementar la opción de contacto        | El desarrollador implementa la opción-atajo de contacto del landing page, en el header                           | 0.5 horas          | Alexander Cantoral | Done   |
+|            |                                          | T002             | Implementar sección de contacto          | El desarrollador implementa la sección de contacto del landing page                                              | 1 hora             | Alexander Cantoral | Done   |
+
 #### 5.2.2.3. Development Evidence for Sprint Review
 
 Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos realizado commit alguno al repositorio

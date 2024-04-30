@@ -1586,6 +1586,14 @@ Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 **Evidencia de Diego Acuña:**
 ![Imagen de deploy](https://cdn.discordapp.com/attachments/1226580112670064641/1234944403844366396/foto_importante.jpg?ex=6632931a&is=6631419a&hm=4e7b0e2893d24daa8ca59f2c1569fbb49fe243983e5997ea5e5997a23fee6dd0&)
+
+**Evidencia de Miguel Gomez - Usea Story 03:**
+![Imagen de deploy](https://media.discordapp.net/attachments/1226580112670064641/1234947961407144066/image.png?ex=6632966a&is=663144ea&hm=f6e1091bdd91d82e48efc6f76599b4925ce7c6929e547e675a427ca7011a33fb&=&format=webp&quality=lossless&width=550&height=308)
+
+![Imagen de deploy](https://cdn.discordapp.com/attachments/1226580112670064641/1234948049168765090/image.png?ex=6632967f&is=663144ff&hm=f28fd9f64d327a448895af4ef80fa4ad5d901db1901dca1525136bcc69e8a060&)
+
+![Imagen de deploy](https://cdn.discordapp.com/attachments/1226580112670064641/1234948175278772274/image.png?ex=6632969d&is=6631451d&hm=bebfe0a6c83b86e6f9ad080dc6f61081756baba595b6b70132340a3c81f54052&)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado con el repositorio.

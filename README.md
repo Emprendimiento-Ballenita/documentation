@@ -685,7 +685,7 @@ medio, ya conocen todos los detalles de tus recorridos?
 
 ### 2.2.2. Registro de entrevistas.
   
-![Link entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Eb3zjsgRPFVFgWVmUzIKGr8BUQlXtWvNmc0fAnuMtnLfIg?e=GPikGC)
+[Link entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Eb3zjsgRPFVFgWVmUzIKGr8BUQlXtWvNmc0fAnuMtnLfIg?e=GPikGC)
 
 ###### Resumenes de entrevistas:
 Segmento 1(Clientes):

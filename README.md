@@ -685,7 +685,7 @@ medio, ya conocen todos los detalles de tus recorridos?
 
 ### 2.2.2. Registro de entrevistas.
   
-![Link entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Eb3zjsgRPFVFgWVmUzIKGr8BUQlXtWvNmc0fAnuMtnLfIg?e=GPikGC)
+[Link entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/Eb3zjsgRPFVFgWVmUzIKGr8BUQlXtWvNmc0fAnuMtnLfIg?e=GPikGC)
 
 ###### Resumenes de entrevistas:
 Segmento 1(Clientes):
@@ -860,38 +860,76 @@ Segmento 2 (Guía turístico):
 
 ### 2.3.2. User Task Matrix. 
 
-- User Persona: Turista
-
-|                                         |            |             |
-|-----------------------------------------|------------|-------------|
-| Tareas                                  | Frecuencia | Importancia |
-| Registrar cuenta                        | Baja       | Alta        |
-| Autenticarse                            | Alta       | Alta        |
-| Buscar guías                            | Alta       | Alta        |
-| Filtrar búsqueda de guías               | Alta       | Media       |
-| Ver información del guía                | Media      | Alta        |
-| Administrar lista de favoritos          | Baja       | Media       |
-| Contratar servicio de guía              | Alta       | Alta        |
-| Reservar servicio de guía               | Alta       | Alta        |
-| Pagar servicio                          | Alta       | Alta        |
-| Generar recibo electrónico              | Media      | Alta        |
-| Revisar valoraciones y reseñas          | Baja       | Media       |
-| Compartir experiencia en redes sociales | Baja       | Baja        |
-
-- User Persona: Guía turístico
-
-|                             |            |             |
-|-----------------------------|------------|-------------|
-| Tareas                      | Frecuencia | Importancia |
-| Registrar cuenta            | Alta       | Alta        |
-| Autenticarse                | Alta       | Alta        |
-| Gestionar certificación     | Media      | Alta        |
-| Configurar datos de usuario | Baja       | Media       |
-| Verificar reservas          | Alta       | Alta        |
-| Confirmar servicio          | Alta       | Alta        |
-| Atender servicio            | Alta       | Alta        |
-| Generar recibo electrónico  | Media      | Alta        |
-| Revisar valoraciones        | Alta       | Media       |
+<table border="1">
+    <tr>
+        <th></th>
+        <th colspan="2">Turista</th>
+        <th colspan="2">Guía Turístico</th>
+    </tr>
+    <tr>
+        <td>Tareas</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+        <td>Frecuencia</td>
+        <td>Importancia</td>
+    </tr>
+    <tr>
+        <td>Explorar opciones de experiencias vivenciales en Perú</td>
+        <td>Media</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Media</td>
+    </tr>
+    <tr>
+        <td>Coordinar transporte</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Contactar y planificar itinerarios de experiencias vivenciales</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Interactuar con comunidades locales</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Media</td>
+    </tr>
+    <tr>
+        <td>Participar en actividades culturales y tradicionales</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Aprender sobre la historia y la cultura peruana</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Media</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Facilitar la comunicación intercultural</td>
+        <td>Baja</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Alta</td>
+    </tr>
+    <tr>
+        <td>Compartir experiencias y aprendizajes</td>
+        <td>Alta</td>
+        <td>Alta</td>
+        <td>Baja</td>
+        <td>Media</td>
+    </tr>
+</table>
 
 ### 2.3.3. User Journey Mapping. 
 Segmento 1 (Turista):
@@ -917,27 +955,11 @@ Segmento 2 (Guía turístico):
 
 - · Luis desea visitar un lugar turístico con un guía
 
-| Phases            | Antes de contratar al guía                                    | Durante la contratación del guía                                | Al terminar de contratar el guía                          |
-|-------------------|----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------|
-| Doing             | [Luis revisa la cantidad de dinero que posee(físico o virtual)] | [Luis va a una agencia de guías turísticos]                     | [Paga con billetera digital o efectiva ]                   |
-|                   | [Luis va a una agencia de guías turísticos]                     | [Va a varias agencias de guías]                                 | [Va al destino turístico con el guía ]                    |
-| Thinking          | [Tendré el dinero suficiente para contratar a un guía]          | [Hay gran cantidad de agencias, pero no salen los destinos turísticos que hacen guiado] | [Podré pagar de manera digital]                          |
-|                   | [Las agencias de guías tendrán guías con suficiente experiencia laboral] | [Tengo que preguntar a cada agencia buscando guías que lleven al destino turístico que quiero] | [El guía que me llevará al destino será una persona con experiencia] |
-| Feeling           | [Siente preocupación al pensar que el guiado puede ser muy costoso] | [Preocupado por si habrá agencias que llevan al destino turístico que quiere] | [Tranquilidad por haber contratado a un guía que lo llevará] |
-|                   | [Tiene flojera de ir a las agencias]                           | [Dubitativo porque no sabe si encontrará guías con amplia experiencia laboral] | [Insatisfecho con la visita turística porque no le dio reseñas del lugar antes de ir] |
+![As Is Scenario Mapping - Turista](https://cdn.discordapp.com/attachments/1226580112670064641/1234696306547490836/image.png?ex=6631ac0b&is=66305a8b&hm=db2c5ab6edc974973fab4b9fa6cb6c5162180f77bead8a295f272fe47cb6b31f&)
 
 - · Frank desea hacerle guiado a un cliente
 
-| Phases            | Antes de ser contratado como guía                                | Durante su contratación como guía                                | Al terminar su contratación como guía                     |
-|-------------------|-------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------|
-| Doing             | [Lleva sus reseñas de los lugares turísticos donde puede llevar personas] | [Muestra sus reseñas de los destinos turísticos y su título de guía] | [Lleva a su cliente al destino turístico que desea]     |
-|                   | [Se dirige a la agencia donde trabaja]                           | [Ofrece sus servicios como guía]                                | [Corrobora que su cliente disfrute de la guía turística y le da la tarjeta de la agencia para que vuelva otra vez] |
-| Thinking          | [Podré tener clientes el día de hoy]                             | [Alguien se acercará a ver mis reseñas del lugar turístico que puedo llevar] | [Ojalá haber cumplido sus expectativas como guía]       |
-|                   | [Estaré vestido adecuadamente para ser un guía]                   | [Alguien me contratará]                                          | [Espero que me recomiende con sus conocidos]           |
-| Feeling           | [Se siente angustiado porque no sabe si hoy tendrá clientes]     | [Se siente desalentado porque quizás tarde más en conseguir un cliente de lo que esperaba] | [Se siente aliviado al saber que si logro tener clientes en el día] |
-|                   | [Siente temor de no resaltar entre sus compañeros guías]         | [Se siente aliviado al ver que un cliente solicita sus servicios] | [Se siente bien al poder dar sus servicios a un buen precio para los 2] |
-|                   |                                                                   | [Se siente feliz porque llegó a un acuerdo con el cliente]       | [Se siente optimista al esperar ser recomendado con los contactos del cliente] |
-
+![As Is Scenario Mapping - Guia](https://cdn.discordapp.com/attachments/1226580112670064641/1234696422419595314/image.png?ex=6631ac26&is=66305aa6&hm=dc7ec427f047112cf0f2e57ef2b342ddc3816073eae8b16b8dfd43dbfc6d3208&)
 
 ## 2.4. Ubiquitous Language.
 
@@ -1547,6 +1569,8 @@ Conclusiones TP:
 
 - Anexo 5: Repositorio de Landing Page con el archivo md del reporte <https://github.com/Emprendimiento-Ballenita/LandingPage>
 
-- Anexo 6: Enlace a los Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
+- Anexo 6: Enlace a los To Be Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
 
 - Anexo 7: Enlace Class Diagram <https://lucid.app/lucidchart/48f42b15-c7af-49cc-b929-2107cd6ceb02/edit?invitationId=inv_c65ac2b0-5736-408c-9177-9cd9f3ad41b5&page=0_0#>
+
+- Anexo 8: Enlace a los As Is Scenario Mapping <https://miro.com/app/board/uXjVMgiJpdc=/?share_link_id=453813396971>

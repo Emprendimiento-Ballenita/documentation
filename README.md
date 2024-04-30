@@ -1560,15 +1560,27 @@ del landing page:
 | ID         | Title                                    | ID               | Title                                    | Description                                                                                                      | Estimation (Hours) | Assigned To        | Status |
 | US03       | Registrar guía      | T001             | Visualizar los guías     | Se tiene que sacar la información de un json server externo y mostrarlo el FrontEnd                                           | 3 horas            | Miguel Gomez | Done   |
 |            |                                          | T002             | Añadir Guías          | Se tienen que agregar campos para poder agregar atributos simples de los guías, que serán relevantes para el negocio                                                                   | 4 horas          | Miguel Gomez         | Done   |
-| US27       | Ver misión y visión del proyecto         | T001             | Implementar la opción de misión y visión | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 horas            | Alexander Cantoral | Done   |
-| US28       | Revisar los servicios ofrecidos          | T001             | Implementar la opción de servicios       | Implementar los componentes y lógica para el botón atajo de servicio en el header                                | 1 hora             | Alexander Cantoral | Done   |
-|            |                                          | T002             | Implementar los servicios                | Implementación de los componentes y vista de servicios en el main                                                | 1 hora             | Alexander Cantoral | Done   |
-| US29       | Obtener contacto con los administradores | T001             | Implementar la opción de contacto        | El desarrollador implementa la opción-atajo de contacto del landing page, en el header                           | 0.5 horas          | Alexander Cantoral | Done   |
-|            |                                          | T002             | Implementar sección de contacto          | El desarrollador implementa la sección de contacto del landing page                                              | 1 hora             | Alexander Cantoral | Done   |
+| US27       | Ver misión y visión del proyecto         | T003             | Implementar la opción de misión y visión | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 horas            | Alexander Cantoral | Done   |
+| US28       | Revisar los servicios ofrecidos          | T004             | Implementar la opción de servicios       | Implementar los componentes y lógica para el botón atajo de servicio en el header                                | 1 hora             | Alexander Cantoral | Done   |
+|            |                                          | T005             | Implementar los servicios                | Implementación de los componentes y vista de servicios en el main                                                | 1 hora             | Alexander Cantoral | Done   |
+| US29       | Obtener contacto con los administradores | T006             | Implementar la opción de contacto        | El desarrollador implementa la opción-atajo de contacto del landing page, en el header                           | 0.5 horas          | Alexander Cantoral | Done   |
+|            |                                          | T007             | Implementar sección de contacto          | El desarrollador implementa la sección de contacto del landing page                                              | 1 hora             | Alexander Cantoral | Done   |
+| US01       | Usuario quiere registrarse en la aplicación | T008             | Implementar el registro del usuario        | El desarrollador implementa la función de registro                           | 7 horas          | Max Paitan | In process   |
+|            |                                          | T009             | Implementar json          | El desarrollador implementa el json de datos para el registro                                              | 4 horas             | Max Paitan | Done   |
+| US05       | Iniciar sesión | T010             | Implementar el login del usuario        | El desarrollador implementa la función de login                           | 7 horas          | Max Paitan | In process   |
+|            |                                          | T011             | Implementar json          | El desarrollador implementa el json de datos para el login                                              | 4 horas             | Alexander Cantoral | Done   |
+| US23       | Ver métricas de rendimiento | T012             | Implementar métricas de rendimiento       | El desarrollador implementa la función para ver las métricas de rendimiento del guía                           | 4 horas          | Max Paitan | Done   |
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
-Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos realizado commit alguno al repositorio
+|              |        |                                          |                               |                     |                  |
+|--------------|--------|------------------------------------------|-------------------------------|---------------------|------------------|
+| Repository   | Branch | Commit ID                                | Commit Message                | Commit Message Body | Commited on date |
+| turisteando-front | feature1   | d99918ba2c01fece0472d89aafe2ca79f797b37c | Feature: Add files via upload | ---                 | 30/04/2024       |
+| turisteando-front | feature2   | a11d0295c0d7eb9be039d0cc72144b29096e5178 | Feature: Add files via upload | ---                 | 30/04/2024       |
+| turisteando-front | feature3   | 4f04b5f9df1cb02892cc81d92b6e0e0ccb5ce401 | Feature: Add files via upload | ---                 | 30/04/2024       |
+| turisteando-front | feature4   | 2c358e71bea680941dc4dd30e92060ae9f67dabb | Feature: Add files via upload | ---                 | 30/04/2024       |
+
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -1577,7 +1589,7 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-Se ha implementado la primera versión del front de nuestra página web:
+Se ha implementado la primera versión del front de nuestra página web, logrando terminar con varios de los user stories 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -1595,9 +1607,17 @@ Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se
 
 ![Imagen de deploy](https://cdn.discordapp.com/attachments/1226580112670064641/1234948175278772274/image.png?ex=6632969d&is=6631451d&hm=bebfe0a6c83b86e6f9ad080dc6f61081756baba595b6b70132340a3c81f54052&)
 
+**Evidencia de Max Paitan:**
+
+![Imagen de deploy](https://media.discordapp.net/attachments/1226580112670064641/1234969413489393816/login-register.png?ex=6632aa64&is=663158e4&hm=1109b5b58190b83d9ead7fa2155808479074d1ac2a9e09e47424b2a4f4d3b1ee&=&format=webp&quality=lossless&width=1241&height=597)
+
+![Imagen de deploy](https://media.discordapp.net/attachments/1226580112670064641/1234969446007832636/user.png?ex=6632aa6c&is=663158ec&hm=2bb18a048ea43f3ff82d47114b19963ce0fd29a4c99c0759ea2c4be3594daeee&=&format=webp&quality=lossless&width=550&height=266)
+
+![Imagen de deploy](https://media.discordapp.net/attachments/1226580112670064641/1234969477951783034/metrics.png?ex=6632aa74&is=663158f4&hm=6cb87e4092792174de7f9cf19b09b3bbb9b0ad32c2289f962c441fd893a2e215&=&format=webp&quality=lossless&width=550&height=263)
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado con el repositorio.
+![Team Collaboration](https://media.discordapp.net/attachments/1226580112670064641/1234970409485733951/network.png?ex=6632ab52&is=663159d2&hm=4d87bfa91cb325c257493596169a7ddff47dacb1826aa11dd185a9496c470a11&=&format=webp&quality=lossless)
 
 ## Conclusiones:
 

@@ -1589,7 +1589,7 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-Se ha implementado la primera versión del front de nuestra página web, logrando terminar con varios de los user stories 
+![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290048929038386/image.png?ex=66377854&is=663626d4&hm=a30f374243d36572924f97e48b60c4f237161a027bc8ee61b48ff94419387884&=&format=webp&quality=lossless&width=2924&height=1610)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 

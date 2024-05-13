@@ -1073,6 +1073,8 @@ realizar las acciones.
 | 13 | US13 | Ver información personal del guía | **Como** turista, **quiero** poder ver la información detallada y el perfil completo de un guía turístico, incluyendo su experiencia, especialidades y valoraciones de otros turistas | 1 |
 | 14 | US14 | Administrar favoritos y listas de deseos de guías | **Como** turista, **quiero** poder guardar guías turísticos en una lista de favoritos **para** poder acceder rápidamente a ellos y planificar futuros viajes | 2 |
 | 15 | US15 | Contratar servicio del guía | **Como** turista, **quiero** poder contratar los servicios de un guía turístico directamente desde la plataforma, seleccionando el tour deseado y realizando el pago, **para** no perder tiempo | 3 |
+| 16 | US16 | Reservar servicio del guía | **Como** turista, **quiero** poder reservar un servicio de guía turístico en una fecha y hora específicas, asegurando así mi disponibilidad y la del guía **para** la experiencia de viaje | 5 |
+| 17 | US17 | Pagar servicio | **Como** turista, **quiero** poder realizar el pago por los servicios del guía turístico de manera segura y conveniente a través de la plataforma, utilizando métodos de pago confiables, **para** no tener problemas de robos | 5 |
 
 
 

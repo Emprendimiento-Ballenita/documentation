@@ -1055,12 +1055,12 @@ realizar las acciones.
 
 | #Orden   | User Story ID  | Titulo                 | Descripcion                                    | Story points (1/2/3/5/8)|
 |---------|-----------------|------------------------|------------------------------------------------|----------------------   |
-| 1       | US01   | Usuario quiere registrarse en la aplicación.   | Como turista, quiero poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles | 3 |
+| 1       | US01   | Usuario quiere registrarse en la aplicación.   | **Como** turista, **quiero** poder registrarme en la plataforma para acceder a todas las funcionalidades y servicios disponibles | 3 |
 | 2      | US03 | Registrar guía | **Como** guía, **quiero** poder registrarme en la plataforma proporcionando la información necesaria **para** crear un perfil completo y ofrecer mis servicios como guía turístico | 3 |
 | 3 | US02| Autenticar cuenta de turista | **Como** turista, **quiero** poder autenticar mi cuenta utilizando mis credenciales **para** acceder a mi perfil y realizar acciones en la plataforma web de manera segura | 2 |
 | 4 | US04 |Autenticar cuenta de guía | **Como** guía, **quiero** poder autenticar mi cuenta utilizando mis credenciales **para** acceder a mi perfil y gestionar mi información como guía turístico. | 2 |
-| 5 | US05 | Iniciar sesión | Como guía/turista, quiero poder iniciar sesión en la plataforma con mis credenciales para acceder a mi cuenta y utilizar todas las funcionalidades disponibles. | 3 |
-| 6 | US06 | Restablecer contraseña | Como guía/turista, quiero tener la opción de restablecer mi contraseña para poder ingresar a mi cuenta cuando tenga problemas. | 5 |
+| 5 | US05 | Iniciar sesión | **Como** guía/turista, **quiero** poder iniciar sesión en la plataforma con mis credenciales **para** acceder a mi cuenta y utilizar todas las funcionalidades disponibles. | 3 |
+| 6 | US06 | Restablecer contraseña | **Como** guía/turista, **quiero** tener la opción de restablecer mi contraseña **para** poder ingresar a mi cuenta cuando tenga problemas. | 5 |
 | 7 | US07 | Gestionar certificación de guía | **Como guía**, **quiero** poder gestionar mi certificación proporcionando la documentación necesaria y siguiendo los procesos establecidos **para** validar mi estatus como guía oficial | 3 |
 | 8 | US08 | Configurar datos de usuario | **Como** guía/turista, **quiero** poder configurar y actualizar mi información personal en mi perfil **para** mantenerla actualizada y precisa | 3 | 
 | 9 | US09 | Eliminar cuenta | **Como** guía/turista, **quiero** tener la opción de eliminar permanentemente mi cuenta de la plataforma **para** cuando deje de usar la plataforma web| 5 |

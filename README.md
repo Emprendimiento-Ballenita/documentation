@@ -1528,7 +1528,7 @@ implementarán en Gerkhin.
 Se ha implementado la primera versión del Landing Page, con partes
 fundamentales como inicio, servicios y contacto:
 
-<https://emprendimiento-ballenita.github.io/LandingPage/>
+https://si730-si92-aplicacionesweb.github.io/LandingPague.github.io/#
 
 ![Imagen de Landing](https://cdn.discordapp.com/attachments/1226580112670064641/1227828595573919825/27.png?ex=66330dfd&is=662098fd&hm=4093da6e9273ffb477af40dc8706ce43aa86726e0c2cc06cd337e95649223b47&)
 
